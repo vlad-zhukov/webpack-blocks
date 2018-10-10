@@ -12,7 +12,8 @@
     "prettier": "^1.14.3"
   },
   "workspaces": [
-    "packages/*"
+    "packages/*",
+    "examples/*"
   ],
   "prettier": {
     "printWidth": 100,

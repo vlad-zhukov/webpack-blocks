@@ -1,4 +1,5 @@
 node_modules/
 packages/**/build/
+examples/**/build/
 package-lock.json
 *.log
